@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.soban","c":"NameEqualizer","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"com.soban","c":"NameEqualizer","l":"NameEqualizer()","u":"%3Cinit%3E()"}];updateSearchResults();
